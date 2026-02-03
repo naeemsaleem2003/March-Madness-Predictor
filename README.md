@@ -1,4 +1,3 @@
-# march-madness-predictor
 # NCAA March Madness Bracket Predictor
 
 This project uses machine learning to predict the outcomes of NCAA March Madness games. The model is trained on historical regular season and tournament data and uses team level statistics to estimate win probabilities for each matchup.

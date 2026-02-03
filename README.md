@@ -23,3 +23,4 @@ Each row represents a single game and includes team identifiers, seeds, scores, 
 ## Files
 - `predictor.py`: Main model training, evaluation, and matchup level prediction logic
 - `data_preprocessing.py`: Builds team feature vectors and constructs the final training dataset
+- `data/`: Contains the historical dataset used for training (not committed to the repository)
